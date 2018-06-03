@@ -1,5 +1,0 @@
-1. mock 数据由sosoapi提供地址是http://www.sosoapi.com/pass/mock/10839/getCityGuideData 提供
-如果拿不到数据，可能网络问题，拿不到数据会本地创建一些数据作为UI展示
-2.测试过程使用了fidder设置代理，监听网络数据
-3. 关于单元测试，仅仅对数据层和解释层做了一定的单元测试
-4.真机是在乐视X620

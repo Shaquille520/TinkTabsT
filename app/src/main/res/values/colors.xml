@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#001835</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTip">#999999</color>
+    <color name="colorTab">#001835</color>
+    <color name="color_contain_background" >#FEFEFE</color>
+    <color name="color_navigator_divider">#666666</color>
+    <color name="colorGuideTitle" >#333333</color>
+    <color name="colorGuideDesc" >#999999</color>
+</resources>

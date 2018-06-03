@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TinkLabsTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tab_city_guide">CITY GUIDE</string>
+    <string name="tab_shop">SHOP</string>
+    <string name="tab_eat">EAT</string>
+    <string name="pd_tip_normal" >Loading</string>
+    <string name="tip_no_data" >NO DATA AVAILABLE</string>
+    <string name="tip_network_error" >NET WORK ERROR</string>
+    <string name="shop_des" >The SHOP Module has not opened </string>
+    <string name="eat_desc" >The EAT Module has not opened </string>
+</resources>

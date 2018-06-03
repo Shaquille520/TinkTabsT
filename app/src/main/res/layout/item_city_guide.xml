@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp">
+    <ImageView
+        android:id="@+id/guideImage"
+        android:layout_width="122dp"
+        android:paddingLeft="10dp"
+        android:layout_height="90dp"
+        android:scaleType="fitXY"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_toRightOf="@id/guideImage"
+        android:layout_alignTop="@id/guideImage"
+        android:layout_alignBottom="@id/guideImage"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/guideTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:textColor="@color/colorGuideTitle"
+            android:textSize="15sp"
+            android:ellipsize="end"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp"
+            android:text="title" />
+
+        <TextView
+            android:id="@+id/guideDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorGuideDesc"
+            android:textSize="12sp"
+            android:maxLines="3"
+            android:ellipsize="end"
+            android:paddingTop="4dp"
+            android:paddingBottom="8dp"
+            android:text="Description balabababbababb help imporeve android studio by sending us any message" />
+
+    </LinearLayout>
+
+</RelativeLayout>

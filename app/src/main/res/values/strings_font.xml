@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fa_warning" >&#xf071;</string>
+    <string name="fa_pie_chart">&#xf200;</string>
+    <string name="fa_envira">&#xf299;</string>
+    <string name="fa_hand_shake_o">&#xf2b5;</string>
+    <string name="fa_thermometer">&#xf2c7;</string>
+    <string name="fa_search">&#xf002;</string>
+    <string name="fa_star">&#xf005;</string>
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_check">&#xf00c;</string>
+    <string name="fa_trash_o">&#xf014;</string>
+    <string name="fa_inbox">&#xf01c;</string>
+    <string name="fa_refresh">&#xf021;</string>
+    <string name="fa_tag">&#xf02b;</string>
+    <string name="fa_pencil">&#xf040;</string>
+    <string name="fa_times_circle">&#xf057;</string>
+    <string name="fa_check_circle">&#xf058;</string>
+    <string name="fa_info_circle">&#xf05a;</string>
+    <string name="fa_arrow_up">&#xf062;</string>
+    <string name="fa_arrow_down">&#xf063;</string>
+    <string name="fa_plus">&#xf067;</string>
+    <string name="fa_leaf">&#xf06c;</string>
+    <string name="fa_eye">&#xf06e;</string>
+    <string name="fa_calendar">&#xf073;</string>
+    <string name="fa_bar_chart_o">&#xf080;</string>
+    <string name="fa_upload">&#xf093;</string>
+    <string name="fa_hand_o_right">&#xf0a4;</string>
+    <string name="fa_tasks">&#xf0ae;</string>
+    <string name="fa_bars">&#xf0c9;</string>
+    <string name="fa_exchange">&#xf0ec;</string>
+    <string name="fa_cutlery">&#xf0f5;</string>
+    <string name="fa_hospital_o">&#xf0f8;</string>
+    <string name="fa_angle_double_left">&#xf100;</string>
+    <string name="fa_angle_double_down">&#xf103;</string>
+    <string name="fa_angle_left">&#xf104;</string>
+    <string name="fa_angle_right">&#xf105;</string>
+    <string name="fa_angle_up">&#xf106;</string>
+    <string name="fa_angle_down">&#xf107;</string>
+    <string name="fa_frown_o">&#xf119;</string>
+    <string name="fa_location_arrow">&#xf124;</string>
+    <string name="fa_info">&#xf129;</string>
+    <string name="fa_calendar_o">&#xf133;</string>
+    <string name="fa_check_square">&#xf14a;</string>
+    <string name="fa_pencil_square">&#xf14b;</string>
+    <string name="fa_file_text">&#xf15c;</string>
+    <string name="fa_bug">&#xf188;</string>
+    <string name="fa_pagelines">&#xf18c;</string>
+    <string name="fa_cart_arrow_down" >&#xf218;</string>
+    <string name="fa_farword" >&#xf04e;</string>
+    <string name="fa_calendar_check_o" >&#xf274;</string>
+    <string name="fa_history" >&#xf1da;</string>
+</resources>

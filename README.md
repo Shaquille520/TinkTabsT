@@ -1,5 +1,5 @@
-# TinkTabsT
-这是TinkTabs公司出的测试案例，我是求职者，这是我花了两天写的.
+# TinkLabsT
+这是Tinklabs公司出的测试案例，我是求职者，这是我花了两天写的.
 本案例用了mvp的设计模式，greendao实现本地数据库sqlite的关系对象映射，使用glide显示图片.
 UI上swiplayout+recycleview实现数据展示列表数据,下拉展示更多，主页用tablayout+viewpager实现fragment的左右滑动选择等
 网络框架使用retrofit+okhttp,json数据解析用GSON
